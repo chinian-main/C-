@@ -1,0 +1,7 @@
+E:\C#高级编程\Demo_homework01\Demo_homework01\bin\Debug\Demo_homework01.exe.config
+E:\C#高级编程\Demo_homework01\Demo_homework01\bin\Debug\Demo_homework01.exe
+E:\C#高级编程\Demo_homework01\Demo_homework01\bin\Debug\Demo_homework01.pdb
+E:\C#高级编程\Demo_homework01\Demo_homework01\obj\Debug\Demo_homework01.csproj.AssemblyReference.cache
+E:\C#高级编程\Demo_homework01\Demo_homework01\obj\Debug\Demo_homework01.csproj.CoreCompileInputs.cache
+E:\C#高级编程\Demo_homework01\Demo_homework01\obj\Debug\Demo_homework01.exe
+E:\C#高级编程\Demo_homework01\Demo_homework01\obj\Debug\Demo_homework01.pdb
