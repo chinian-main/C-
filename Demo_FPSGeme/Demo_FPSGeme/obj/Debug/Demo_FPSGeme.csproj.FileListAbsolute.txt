@@ -1,0 +1,7 @@
+E:\C#高级编程\Demo_FPSGeme\Demo_FPSGeme\bin\Debug\Demo_FPSGeme.exe.config
+E:\C#高级编程\Demo_FPSGeme\Demo_FPSGeme\bin\Debug\Demo_FPSGeme.exe
+E:\C#高级编程\Demo_FPSGeme\Demo_FPSGeme\bin\Debug\Demo_FPSGeme.pdb
+E:\C#高级编程\Demo_FPSGeme\Demo_FPSGeme\obj\Debug\Demo_FPSGeme.csproj.AssemblyReference.cache
+E:\C#高级编程\Demo_FPSGeme\Demo_FPSGeme\obj\Debug\Demo_FPSGeme.csproj.CoreCompileInputs.cache
+E:\C#高级编程\Demo_FPSGeme\Demo_FPSGeme\obj\Debug\Demo_FPSGeme.exe
+E:\C#高级编程\Demo_FPSGeme\Demo_FPSGeme\obj\Debug\Demo_FPSGeme.pdb
