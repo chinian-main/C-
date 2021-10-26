@@ -1,0 +1,7 @@
+E:\C#高级编程\Demo_GreedySnack\Demo_GreedySnack\bin\Debug\Demo_GreedySnack.exe.config
+E:\C#高级编程\Demo_GreedySnack\Demo_GreedySnack\bin\Debug\Demo_GreedySnack.exe
+E:\C#高级编程\Demo_GreedySnack\Demo_GreedySnack\bin\Debug\Demo_GreedySnack.pdb
+E:\C#高级编程\Demo_GreedySnack\Demo_GreedySnack\obj\Debug\Demo_GreedySnack.csproj.AssemblyReference.cache
+E:\C#高级编程\Demo_GreedySnack\Demo_GreedySnack\obj\Debug\Demo_GreedySnack.csproj.CoreCompileInputs.cache
+E:\C#高级编程\Demo_GreedySnack\Demo_GreedySnack\obj\Debug\Demo_GreedySnack.exe
+E:\C#高级编程\Demo_GreedySnack\Demo_GreedySnack\obj\Debug\Demo_GreedySnack.pdb
